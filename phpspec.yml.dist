@@ -1,0 +1,4 @@
+suites:
+  giordan_suite:
+    namespace: Giordan
+    psr4_prefix: Giordan

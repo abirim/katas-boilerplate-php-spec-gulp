@@ -1,0 +1,21 @@
+{
+    "name": "giordan/katas-boilerplate-php-spec-gulp",
+    "description": "katas boilerplate with phpSpec and Gulp",
+    "require": {
+        "phpspec/phpspec": "^2.5",
+        "phpunit/phpunit": "^5.3"
+    },
+    "config": {
+      "bin-dir": "bin"
+    },
+    "autoload": {
+      "psr-4": {"Giordan\\":"src/"}
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Gabriele Giuranno",
+            "email": "gabrielegiuranno@gmail.com"
+        }
+    ]
+}
